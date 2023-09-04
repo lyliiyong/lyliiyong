@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow" />
   <a href="https://space.bilibili.com/455796269"><img
       src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink" /></a>
-  <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
-"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green" /></a>
+  <img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green" />
 </p>
 <br>
 
@@ -28,7 +27,6 @@
 ### 💞 我的社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=lyliiyong&theme=dark&lang=zh-CN)](https://github.com/lyliiyong)
-[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/455796269)
 <br>
 
 ### 🍭 GitHub 开源项目
