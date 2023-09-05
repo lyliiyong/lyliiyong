@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue" />
+  <img src="https://img.shields.io/static/v1?label=Program&message=React&color=blue" />
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow" />
   <a href="https://space.bilibili.com/455796269"><img
       src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink" /></a>
@@ -44,9 +44,3 @@ stats](https://github-readme-stats.vercel.app/api?username=lyliiyong&custom_titl
 ![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=lyliiyong&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=lyliiyong&theme=dracula&custom_title=三更雨的心电图&radius=10)
 <br>
-
-<details>
-  <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
-  <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
-  <img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%">
-</details>
